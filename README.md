@@ -1,7 +1,7 @@
 Redis Job Queue
 ===============
 
-This is a simple example of how to set up a job queue using Redis and Python.
+A simple job queue using Redis and Python.
 
 Requirements
 ------------
